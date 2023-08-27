@@ -1,5 +1,0 @@
-{{#user}}
-Name: Harsh Bhardwaj
-Skills: AWS (EC2 , S3 , CI/CD Pipeline , IAM) , C , C++ 
-Email: harsh.harshbhardwaj.bhardwaj@gmail.com
-{{/user}}
